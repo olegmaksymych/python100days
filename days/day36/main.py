@@ -6,10 +6,10 @@ import smtplib
 CONFIG = {
     "STOCK_NAME": "TSLA",
     "COMPANY_NAME": "Tesla Inc",
-    "EMAIL": "olegmaksymych@gmail.com",
+    "EMAIL": "olegmh@gmail.com",
     "PASSWORD": "password",
-    "STOCK_API_KEY": "5TZLDCHA0KM1AXLF",
-    "NEWS_API_KEY": "8bafa726829d46bc91a7ed5dbe181247",
+    "STOCK_API_KEY": "5TZAXLF",
+    "NEWS_API_KEY": "7",
     "STOCK_ENDPOINT": "https://www.alphavantage.co/query",
     "NEWS_ENDPOINT": "https://newsapi.org/v2/everything",
     "PERCENTAGE_THRESHOLD": 5
